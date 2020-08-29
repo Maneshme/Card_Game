@@ -1,0 +1,197 @@
+[
+  {
+    "cardName": "2",
+    "cardSuit": "hearts",
+    "cardValue": 2
+  },
+  {
+    "cardName": "3",
+    "cardSuit": "hearts",
+    "cardValue": 3
+  },
+  {
+    "cardName": "4",
+    "cardSuit": "hearts",
+    "cardValue": 4
+  },
+  {
+    "cardName": "5",
+    "cardSuit": "hearts",
+    "cardValue": 5
+  },
+  {
+    "cardName": "6",
+    "cardSuit": "hearts",
+    "cardValue": 6
+  },
+  {
+    "cardName": "7",
+    "cardSuit": "hearts",
+    "cardValue": 7
+  },
+  {
+    "cardName": "8",
+    "cardSuit": "hearts",
+    "cardValue": 8
+  },
+  {
+    "cardName": "9",
+    "cardSuit": "hearts",
+    "cardValue": 9
+  },
+  {
+    "cardName": "10",
+    "cardSuit": "hearts",
+    "cardValue": 10
+  },
+  {
+    "cardName": "J",
+    "cardSuit": "hearts",
+    "cardValue": 11
+  },
+  {
+    "cardName": "Q",
+    "cardSuit": "hearts",
+    "cardValue": 12
+  },
+  {
+    "cardName": "K",
+    "cardSuit": "hearts",
+    "cardValue": 13
+  },
+  {
+    "cardName": "A",
+    "cardSuit": "hearts",
+    "cardValue": 14
+  },
+  {
+    "cardName": "2",
+    "cardSuit": "diamonds",
+    "cardValue": 2
+  },
+  {
+    "cardName": "3",
+    "cardSuit": "diamonds",
+    "cardValue": 3
+  },
+  {
+    "cardName": "4",
+    "cardSuit": "diamonds",
+    "cardValue": 4
+  },
+  {
+    "cardName": "5",
+    "cardSuit": "diamonds",
+    "cardValue": 5
+  },
+  {
+    "cardName": "6",
+    "cardSuit": "diamonds",
+    "cardValue": 6
+  },
+  {
+    "cardName": "7",
+    "cardSuit": "diamonds",
+    "cardValue": 7
+  },
+  {
+    "cardName": "8",
+    "cardSuit": "diamonds",
+    "cardValue": 8
+  },
+  {
+    "cardName": "9",
+    "cardSuit": "diamonds",
+    "cardValue": 9
+  },
+  {
+    "cardName": "10",
+    "cardSuit": "diamonds",
+    "cardValue": 10
+  },
+  {
+    "cardName": "J",
+    "cardSuit": "diamonds",
+    "cardValue": 11
+  },
+  {
+    "cardName": "Q",
+    "cardSuit": "clubs",
+    "cardValue": 12
+  },
+  {
+    "cardName": "K",
+    "cardSuit": "diamonds",
+    "cardValue": 13
+  },
+  {
+    "cardName": "A",
+    "cardSuit": "diamonds",
+    "cardValue": 14
+  },
+  {
+    "cardName": "2",
+    "cardSuit": "clubs",
+    "cardValue": 2
+  },
+  {
+    "cardName": "3",
+    "cardSuit": "clubs",
+    "cardValue": 3
+  },
+  {
+    "cardName": "4",
+    "cardSuit": "clubs",
+    "cardValue": 4
+  },
+  {
+    "cardName": "5",
+    "cardSuit": "clubs",
+    "cardValue": 5
+  },
+  {
+    "cardName": "6",
+    "cardSuit": "clubs",
+    "cardValue": 6
+  },
+  {
+    "cardName": "7",
+    "cardSuit": "clubs",
+    "cardValue": 7
+  },
+  {
+    "cardName": "8",
+    "cardSuit": "clubs",
+    "cardValue": 8
+  },
+  {
+    "cardName": "9",
+    "cardSuit": "clubs",
+    "cardValue": 9
+  },
+  {
+    "cardName": "10",
+    "cardSuit": "clubs",
+    "cardValue": 10
+  },
+  {
+    "cardName": "J",
+    "cardSuit": "clubs",
+    "cardValue": 11
+  },
+  {
+    "cardName": "Q",
+    "cardSuit": "clubs",
+    "cardValue": 12
+  },
+  {
+    "cardName": "K",
+    "cardSuit": "clubs",
+    "cardValue": 13
+  },
+  {
+    "cardName": "A",
+    "cardSuit": "clubs",
+    "cardValue": 14
+  }
+]
